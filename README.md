@@ -1,5 +1,6 @@
 # Команда № 6
 
+
 Тема: Екатерина II регулярная застройка
 
 Состав команды: 
@@ -19,3 +20,6 @@
 Александр Носков
 
 Алексей Рыжков
+
+![](https://sun1-24.userapi.com/6TVJrmWJLmI_zD1Na2JaIdaKdQ5aDbZWxNggyg/HMBPC7AnPZM.jpg)
+
