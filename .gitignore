@@ -355,3 +355,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+AR_Intensive\Library
+AR_Intensive\Logs
+AR_Intensive\Packages
+AR_Intensive/Library
+AR_Intensive/Logs
+AR_Intensive/Packages
