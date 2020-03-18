@@ -157,7 +157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.7453751, y: 0.87100005}
   m_AnchorMax: {x: 1, y: 0.9295834}
-  m_AnchoredPosition: {x: -7.7, y: -13.2}
+  m_AnchoredPosition: {x: -7.700012, y: -13.199997}
   m_SizeDelta: {x: 15.5, y: 13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &37696602
@@ -209,6 +209,17 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -440,7 +451,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 439157718}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 66116c9d6c69e2540aeda83188f66587, type: 3}
+  m_Script: {fileID: 11500000, guid: a4a37806eb734cd488c3ec0dd63e6691, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &701376785
@@ -455,6 +466,7 @@ GameObject:
   - component: {fileID: 701376789}
   - component: {fileID: 701376788}
   - component: {fileID: 701376787}
+  - component: {fileID: 701376790}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -525,7 +537,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 857916073}
+      - m_Target: {fileID: 439157723}
         m_MethodName: scena
         m_Mode: 3
         m_Arguments:
@@ -572,6 +584,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 701376785}
   m_CullTransparentMesh: 0
+--- !u!114 &701376790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 701376785}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4a37806eb734cd488c3ec0dd63e6691, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &745653898
 GameObject:
   m_ObjectHideFlags: 0
@@ -871,7 +895,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.7453751, y: 0.9295834}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.7, y: -3.5}
+  m_AnchoredPosition: {x: -7.700012, y: -3.5}
   m_SizeDelta: {x: 15.5, y: 6.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1367212124
@@ -1014,7 +1038,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.58456266, y: 1}
-  m_AnchoredPosition: {x: -0.1000061, y: 0.6000061}
+  m_AnchoredPosition: {x: -0.099975586, y: 0.6000061}
   m_SizeDelta: {x: -0.2000122, y: 1.2000122}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1946314351
@@ -1140,13 +1164,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 857916073}
+      - m_Target: {fileID: 439157723}
         m_MethodName: scena
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
