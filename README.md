@@ -23,3 +23,4 @@
 
 ![](https://sun1-24.userapi.com/6TVJrmWJLmI_zD1Na2JaIdaKdQ5aDbZWxNggyg/HMBPC7AnPZM.jpg)
 
+Для успешной работы распечатать метку из папки Marks
